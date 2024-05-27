@@ -1,0 +1,9 @@
+[submodule "themes/tp2"]
+	path = themes/tp2
+	url = https://github.com/vincent-genest/4w4-2024-gr2
+[submodule "plugins/carrousel"]
+	path = plugins/carrousel
+	url = https://github.com/vincent-genest/carrousel-2024
+[submodule "plugins/voyage"]
+	path = plugins/voyage
+	url = https://github.com/vincent-genest/voyage-rest-api
